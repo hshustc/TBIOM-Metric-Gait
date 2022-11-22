@@ -13,7 +13,7 @@ Recently the methods based on silhouettes achieve significant improvement for ga
 
 ## Experiments
 ###The performance comparison using different settings for evaluation protocol and silhouette noise
-![](comparison.png)
+![](comparison.jpg)
 
 
 ## Citation

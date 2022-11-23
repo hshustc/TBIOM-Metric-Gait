@@ -12,7 +12,7 @@
 Recently the methods based on silhouettes achieve significant improvement for gait recognition. The performance, e.g., 96.4% on the largest OUMVLP, indicates that a promising gait system is around the corner. However, we argue that the observation is not true. Firstly, we find that there exists a non-negligible gap of gait evaluation between academic research and practical applications. To validate the assumption, we conduct a comprehensive study on the evaluation for silhouette-based gait recognition and provide new insights into the limitations of the current methods. Our key findings include: (a) The current evaluation protocol is excessively simplified and ignores a lot of hard cases. (b) The current methods are sensitive to the noise caused by rotation and occlusion. Secondly, we observe that the data scarcity largely hinders the development of gait recognition and some crucial covariates (e.g., camera heights) are not thoroughly investigated. To address the issue, we propose a new dataset called Multi-Height Gait (MHG). It collects 200 subjects of normal walking, walking with bags and walking in different clothes. Particularly, it collects the sequences recorded by the cameras at different heights. We hope this work would inspire more advanced research for gait recognition. The project page is available at [https://hshustc.github.io/TBIOM-Metric-Gait/](https://hshustc.github.io/TBIOM-Metric-Gait/).
 
 ## Experiments
-###The performance comparison using different settings for evaluation protocol and silhouette noise
+### The performance comparison using different settings for evaluation protocol and silhouette noise
 ![](comparison.jpg)
 
 

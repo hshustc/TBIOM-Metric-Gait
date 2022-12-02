@@ -17,7 +17,7 @@ The performance comparison using different settings for evaluation protocol and 
 ![](comparison.jpg)
 
 ## MHG Dataset
-The datasets can be obtained only after signing the [Agreement](https://github.com/hshustc/TBIOM-Metric-Gait/blob/main/docs/MHG_Dataset_Usage_Agreement.pdf) and sending it to the official contact email address ([BNU-IVC@outlook.com](mailto:BNU-IVC@outlook.com).)
+The datasets can be obtained only after signing [MHG_Dataset_Usage_Agreement](https://github.com/hshustc/TBIOM-Metric-Gait/blob/main/docs/MHG_Dataset_Usage_Agreement.pdf) and sending it to the official contact email address ([BNU-IVC@outlook.com](mailto:BNU-IVC@outlook.com)). We will try to deal with the application in one week.
 - The silhouettes are available. (2022-11-25)
 
 
